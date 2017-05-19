@@ -4,3 +4,9 @@ c:\users\subtee\documents\visual studio 2015\Projects\AllTheThings\AllTheThings\
 c:\users\subtee\documents\visual studio 2015\Projects\AllTheThings\AllTheThings\obj\Debug\AllTheThings.csprojResolveAssemblyReference.cache
 c:\users\subtee\documents\visual studio 2015\Projects\AllTheThings\AllTheThings\obj\Debug\AllTheThings.exe
 c:\users\subtee\documents\visual studio 2015\Projects\AllTheThings\AllTheThings\obj\Debug\AllTheThings.pdb
+C:\Users\q\Source\Repos\AllTheThings\AllTheThings\bin\Debug\AllTheThings.dll.config
+C:\Users\q\Source\Repos\AllTheThings\AllTheThings\bin\Debug\AllTheThings.dll
+C:\Users\q\Source\Repos\AllTheThings\AllTheThings\bin\Debug\AllTheThings.pdb
+C:\Users\q\Source\Repos\AllTheThings\AllTheThings\obj\Debug\AllTheThings.csprojResolveAssemblyReference.cache
+C:\Users\q\Source\Repos\AllTheThings\AllTheThings\obj\Debug\AllTheThings.dll
+C:\Users\q\Source\Repos\AllTheThings\AllTheThings\obj\Debug\AllTheThings.pdb

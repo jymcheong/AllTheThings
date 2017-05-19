@@ -1,1 +1,6 @@
 c:\users\subtee\documents\visual studio 2015\Projects\AllTheThings\AllTheThings\bin\x86\Debug\AllTheThings.exe.config
+C:\Users\q\Source\Repos\AllTheThings\AllTheThings\bin\x86\Debug\AllTheThings.dll.config
+C:\Users\q\Source\Repos\AllTheThings\AllTheThings\bin\x86\Debug\AllTheThings.dll
+C:\Users\q\Source\Repos\AllTheThings\AllTheThings\bin\x86\Debug\AllTheThings.pdb
+C:\Users\q\Source\Repos\AllTheThings\AllTheThings\obj\x86\Debug\AllTheThings.dll
+C:\Users\q\Source\Repos\AllTheThings\AllTheThings\obj\x86\Debug\AllTheThings.pdb

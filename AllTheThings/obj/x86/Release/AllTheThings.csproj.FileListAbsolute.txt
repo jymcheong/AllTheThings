@@ -1,0 +1,6 @@
+C:\Users\q\Source\Repos\AllTheThings\AllTheThings\bin\x86\Release\AllTheThings.dll.config
+C:\Users\q\Source\Repos\AllTheThings\AllTheThings\bin\x86\Release\AllTheThings.dll
+C:\Users\q\Source\Repos\AllTheThings\AllTheThings\bin\x86\Release\AllTheThings.pdb
+C:\Users\q\Source\Repos\AllTheThings\AllTheThings\obj\x86\Release\AllTheThings.dll
+C:\Users\q\Source\Repos\AllTheThings\AllTheThings\obj\x86\Release\AllTheThings.pdb
+C:\Users\q\Source\Repos\AllTheThings\AllTheThings\obj\x86\Release\AllTheThings.csprojResolveAssemblyReference.cache
